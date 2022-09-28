@@ -1,5 +1,5 @@
 lsi: false
-safe: true
+safe: false
 source: tads-ifpruniao/
 incremental: false
 highlighter: rouge
